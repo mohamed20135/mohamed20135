@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Mohamed
+### 👋 Hello, I’m "Mohamed Emam", You can call me "Mido" 😁
 
 [<img src="https://img.shields.io/badge/Portfolio-24243e?logo=about.me" height="25"/>](https://www.codedmohamed.com)
 [<img src="https://img.shields.io/badge/Gmail-24243e?logo=gmail" height="25"/>](mailto:codedmohamed@gmail.com)
